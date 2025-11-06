@@ -59,7 +59,6 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 
 ## ⏳ Stats
 <p align = "center">
-    <img align = "center" src = "https://streak-stats.demolab.com/?user=joice&theme=transparent" /> <br/> <br/>
     <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=Joice-Antony&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" /> <br/> <br/>
     <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=joice&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </p>
