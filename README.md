@@ -40,7 +40,7 @@
 I'm a self-taught developer with nearly 5 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into Machine learning development and algo devlopment. Tools of the trade are Python,Rust,C++,java JavaScript,TypeScript (/`Django`/`FastAPI`/`springBoot`), and Rust (`Rocket`).
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+## ⚒️ Languages-Frameworks-Tools
 <br/>
 <div align="center">
      <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,javascript,typescript,python,go,java,rust,c" />
