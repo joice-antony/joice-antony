@@ -47,41 +47,6 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 ![snake gif](https://github.com/joice-antony/joice-antony/blob/output/github-snake-dark.svg)
 
 
-
-
-## 🛠️ Stack
-- **JavaScript x TypeScript**
-    - HTMX
-    - React
-    - Nextjs
-    - VueJS
-    - SASS
-    - Tailwind
-- **Python**
-    - Django,
-    - FastAPI
-    - Flask
-- **Rust**
-    - Rocket
-    - Yew
-    - Dioxus
-    - Tauri
-- **Database**
-    - MongoDB
-    - SQLite
-    - MySQL
-    - Postgresql
-- **Microservices**
-    - Docker
-    - Kubernetes 
-    - RabbitMQ
-    - Kafka 
-    - Redis
-    - celery
-    - Ngnix
-
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
