@@ -86,12 +86,15 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 <br/>
 <div align="center">
      <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,javascript,typescript,python,go,java,rust,c" />
-     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,react,nextjs,angular,threejs,vite,vue,svg,styledcomponents" />
-     <img src="https://skillicons.dev/icons?i=fastapi,django,flask,rocket,tauri,yew,wasm,bun,nodejs,express,babel" /><br>
-     <img src="https://skillicons.dev/icons?i= firebase,mongodb,mysql,flask,vscode,github,figma,git,r" /><br>
+     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,react,nextjs,angular,threejs,vite,vue,svelte,alpinejs" />
+     <img src="https://skillicons.dev/icons?i=fastapi,django,flask,rocket,tauri,yew,actix,wasm,nodejs,bun,spring" />
+     <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,graphql,redhat,mongodb,supabase,dynamodb,cassandra,nginx,redis " />
+     <img src="https://skillicons.dev/icons?i=git,github,rabbitmq,docker,kubernetes,jenkins,cloudflare,postman,prometheus,selenium,terraform" />
+     <img src="https://skillicons.dev/icons?i=aws,azure,gcp,firebase,vercel,netlify,heroku,linux,ubuntu,bsd,arch" />
+     <img src="https://skillicons.dev/icons?i=figma,sketchup,blender,vscodium,vscode,vim,replit,babel,bash,githubactions,hibernate" /><br>
 </div>
 
-
+vscode,figma,,
 
 
 
