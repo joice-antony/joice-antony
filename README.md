@@ -3,7 +3,7 @@
 
 ## Hey 👋, I'm [Joice](http://joiceantony.me/) :)
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate software developer from India AFK</h3>
 
 <br/>
 
@@ -39,13 +39,6 @@
 
 I'm a self-taught developer with nearly 5 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into Machine learning development and algo devlopment. Tools of the trade are Python,Rust,C++,java JavaScript,TypeScript (/`Django`/`FastAPI`/`springBoot`), and Rust (`Rocket`).
 
-## 🚀 Me
-
-
-
-
-![snake gif](https://github.com/joice-antony/joice-antony/blob/output/github-snake-dark.svg)
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -61,6 +54,7 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 
 
 ## ⏳ Stats
+![snake gif](https://github.com/joice-antony/joice-antony/blob/output/github-snake-dark.svg)
 <p align = "center">
     <img align = "center" height = "200"  src = "https://github-readme-stats.vercel.app/api?username=Joice-Antony&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent" /> <br/> <br/>
     <img align = "center" height= "200" src="https://github-readme-stats.vercel.app/api/top-langs?username=joice&layout=compact&langs_count=8&card_width=320&theme=transparent" />
