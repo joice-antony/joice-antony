@@ -19,6 +19,12 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 - 📫 You can reach me on **Discord** (@solobug), [**Telegram**](https://telegram.me/@solobug), or via [**E-Mail**](joicepantony@proton.me)
 
 
+
+![snake gif](https://github.com/joice-antony/joice-antony/blob/output/github-snake-dark.svg)
+
+
+
+
 ## 🛠️ Stack
 - **JavaScript x TypeScript**
     - HTMX
