@@ -87,8 +87,7 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 <div align="center">
      <img src="https://skillicons.dev/icons?html,htmx,css,sass,python,javascript,typescript,java,rust,go,c" />
      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,react,nextjs,angular,svg,styledcomponents,threejs,vite,vue" />
-     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,flask,vscode,github,figma,git,r" />
-  <br>
+     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,flask,vscode,github,figma,git,r" /><br>
 </div>
 
 
