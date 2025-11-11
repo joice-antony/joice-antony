@@ -2,7 +2,9 @@
 
 
 ## Hey 👋, I'm [Joice](http://joiceantony.me/) :)
-<h3 align="center">Hey 👋, I'm [Joice](http://joiceantony.me/) :)</h3>
+
+<div align="center"> Hey 👋, I'm [Joice](http://joiceantony.me/) </div>
+
 <h3 align="center">A passionate software developer from India AFK</h3>
 
 <br/>
