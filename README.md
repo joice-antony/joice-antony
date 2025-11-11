@@ -39,7 +39,7 @@
 
 
 
-I'm a self-taught developer with nearly 5 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into Machine learning development and algo devlopment. Tools of the trade are Python,Rust,C++,java JavaScript,TypeScript (/`Django`/`FastAPI`/`springBoot`), and Rust (`Rocket`).
+I'm a self-taught developer with nearly 5 years of experience, excited about crafting immersive web experiences and scalable apps, dabbling in various creative projects, among other silly things. Beyond web, I'm also into Machine learning development and algo devlopment. Tools of the trade are Python,Rust,C++,java JavaScript,TypeScript (`Django`,`FastAPI`,`springBoot`), and Rust (`Rocket`).
 
 
 ## ⚒️ Languages-Frameworks-Tools
