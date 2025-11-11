@@ -9,13 +9,13 @@
 
 <div align="center">
  
- ⌨️ I'm working on **[a skill building platform for creatives](https://github.com/Joice-Antony/my-Profile)**.
- 
- 📚 Ask me about **Rust, python & ML or anything [here](https://github.com/joice-antony)**.
- 
  ✒️ I sometimes write on my [blog](https://blog.joiceantony.me/).
  
  🎬 Occasionally, I also put stuff on my [YouTube](https://youtube.com/@solobug).
+
+ 📚 Ask me about **Rust, python & ML or anything [here](https://github.com/joice-antony)**.
+
+ ⌨️ I'm working on **[a skill building platform for creatives](https://github.com/Joice-Antony/my-Profile)**.
  
  📫 You can reach me on **Discord** (@solobug), [**Telegram**](https://telegram.me/@solobug), or via [**E-Mail**](joicepantony@proton.me)
 
