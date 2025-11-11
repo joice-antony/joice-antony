@@ -3,11 +3,11 @@
 
 ## Hey 👋, I'm [Joice](http://joiceantony.me/) :)
 
-<div align="center"> Hey 👋, I'm [Joice](http://joiceantony.me/) </div>
-
 <h3 align="center">A passionate software developer from India AFK</h3>
 
 <br/>
+
+
 
 <div align="center">
  
