@@ -85,9 +85,10 @@ I'm a self-taught developer with nearly 5 years of experience, excited about cra
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,python,javascript,typescript,java,rust,go,c" />
-     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,react,nextjs,angular,svg,styledcomponents,threejs,vite,vue" />
-     <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql,flask,vscode,github,figma,git,r" /><br>
+     <img src="https://skillicons.dev/icons?i=html,htmx,css,sass,javascript,typescript,python,go,java,rust,c" />
+     <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mui,react,nextjs,angular,threejs,vite,vue,svg,styledcomponents" />
+     <img src="https://skillicons.dev/icons?i=fastapi,django,flask,rocket,tauri,yew,wasm,bun,nodejs,express,babel" /><br>
+     <img src="https://skillicons.dev/icons?i= firebase,mongodb,mysql,flask,vscode,github,figma,git,r" /><br>
 </div>
 
 
